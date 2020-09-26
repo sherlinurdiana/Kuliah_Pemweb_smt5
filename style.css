@@ -1,0 +1,22 @@
+body{
+	background-color: gray;
+}
+
+img {
+	width: 200px;
+	height: 300px;
+}
+
+.rata-kanan{
+	font-size: 20px;
+	line-height: 20px;
+	float: left;
+	width: 85%; 
+	padding-left:5em;
+	padding-right:5px;
+}
+.isi{
+	float: left;
+	padding: 6em;
+	margin: 5px;
+}
