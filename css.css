@@ -1,0 +1,44 @@
+*{margin: 0: padding : 0;}
+body {
+	width: 960px;
+	margin: auto;
+}
+header {
+	width: 960px;
+	height: 250px;
+}
+header img {
+	width: 960px;
+	height: 270px;
+}
+menu {
+	width: 920px;
+	height: 50px;
+	background: #669966;
+	padding-top: 5px;
+}
+menu li {
+	list-style: none ;
+	float: left;
+	margin-right: 10px;
+	margin-top: 15px;
+}
+menu li a:hover {
+	color: White;
+}
+.recomended {
+	margin-top: -10px;
+	padding-top: -10px;
+	width: 960px;
+	background-color: #33cc33;
+
+}
+footer {
+	width: 960px;
+	height: 50px;
+	background-color: #339900;
+	padding-top: 20px;
+	margin-top: 20px;
+
+}
+
